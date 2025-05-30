@@ -223,4 +223,4 @@ for _, x in next, Targets do
     elseif not GetPlayer(x) and not AllBool then
         Message("Error Occurred", "Username Invalid", 5)
     end
-end
+end)
